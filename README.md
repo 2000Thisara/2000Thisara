@@ -60,10 +60,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
+- Programming
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,php,java,py,express" />
+    <img src="https://skillicons.dev/icons?i=java,c,py,js" />
   </a>
 </p>
 
@@ -73,6 +73,14 @@
     <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,nextjs,tailwind" />
   </a>
 </p>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,php" />
+  </a>
+</p>
+
 
 - Database
 <p align="left">
